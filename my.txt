@@ -9,3 +9,4 @@ iadd books
 add books
 add 1
 add --amend
+add lan code
