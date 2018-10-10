@@ -5,8 +5,11 @@ abc
 jfkdsjfklsdjflsdkj
 merge_master_new
 add master
+<<<<<<< HEAD
 iadd books
 add books
 add 1
 add --amend
 add lan code
+add books
+add 1
